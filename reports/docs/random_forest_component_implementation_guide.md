@@ -8,12 +8,12 @@ This implementation follows your project guideline pattern and aligns with the t
 ## 2. Files Implemented and Outputs Produced
 
 ### Implemented notebook
-- [notebooks/random_forest/random_forest_gold_prediction.ipynb](notebooks/random_forest/random_forest_gold_prediction.ipynb)
+- [notebooks/random_forest/random_forest_gold_prediction.ipynb](../../notebooks/random_forest/random_forest_gold_prediction.ipynb)
 
 ### Generated outputs
-- [reports/figures/random_forest_results.png](reports/figures/random_forest_results.png)
-- [outputs/random_forest/test_predictions_random_forest.csv](outputs/random_forest/test_predictions_random_forest.csv)
-- [outputs/random_forest/random_forest_feature_importance.csv](outputs/random_forest/random_forest_feature_importance.csv)
+- [reports/figures/random_forest_results.png](../figures/random_forest_results.png)
+- [outputs/random_forest/test_predictions_random_forest.csv](../../outputs/random_forest/test_predictions_random_forest.csv)
+- [outputs/random_forest/random_forest_feature_importance.csv](../../outputs/random_forest/random_forest_feature_importance.csv)
 
 ## 3. End-to-End Pipeline Implemented
 
